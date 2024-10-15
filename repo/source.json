@@ -1,7 +1,7 @@
 {
   "name": "Epic Games Repo",
   "identifier": "com.isacucho.epicgames",
-  "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+  "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icon.png?raw=true",
   "apps": [
     {
       "name": "Feather",
