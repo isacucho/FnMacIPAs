@@ -1,150 +1,60 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
-    ],
-    "apps": [
+  "name": "Epic Games Repo",
+  "identifier": "com.isacucho.epicgames",
+  "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+  "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "Samara",
+      "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "subtitle": "On-device signing application",
+      "tintColor": "848ef9",
+      "versions": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
-            "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ],
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-            }
+          "version": "1.0.5",
+          "date": "2024-10-03T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa"
         },
         {
-            "name": "Another Example App",
-            "bundleIdentifier": "com.example.anotherapp",
-            "developerName": "Example Developer",
-            "subtitle": "Another awesome app.",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-            "tintColor": "#3660A2",
-            "screenshots": {
-                "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
-                    {
-                        "imageURL": "https://example.com/anotherapp_landscape.png",
-                        "width": 2556,
-                        "height": 1179
-                    }
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-                        "width": 1668,
-                        "height": 2388
-                    },
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-                        "width": 2388,
-                        "height": 1668
-                    }
-                ]
-            },
-            "versions": [
-                {
-                    "version": "1.2",
-                    "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
-                    "size": 81514,
-                    "minOSVersion": "13.0"
-                },
-                {
-                    "version": "1.1",
-                    "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "16.3"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-02-02T07:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-                    "localizedDescription": "Initial release.",
-                    "size": 79821
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.developer.healthkit",
-                    "com.apple.developer.game-center"
-                ],
-                "privacy": {
-                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
-                }
-            }
-        }
-    ],
-    "news": [
-        {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
+          "version": "1.0.4",
+          "date": "2024-10-03T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.4/feather_v1.0.4.ipa"
         },
         {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.example.myapp"
+          "version": "1.0.3",
+          "date": "2024-10-03T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.3/feather_v1.0.3.ipa"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2024-09-18T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.2/feather_v1.0.2.ipa"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-08-30T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.1/feather_v1.0.1.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-08-24T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0/feather_v1.0.ipa"
         }
-    ]
+      ],
+      "size": 12375230,
+      "version": "1.0.5",
+      "versionDate": "2024-10-03T18:34:10Z",
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
 }
