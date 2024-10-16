@@ -17,44 +17,8 @@
           "date": "2024-10-11T00:00:00Z",
           "size": 293601280,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
-        },
-        {
-          "version": "1.0.4",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.4/feather_v1.0.4.ipa"
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.3/feather_v1.0.3.ipa"
-        },
-        {
-          "version": "1.0.2",
-          "date": "2024-09-18T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.2/feather_v1.0.2.ipa"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2024-08-30T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.1/feather_v1.0.1.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2024-08-24T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0/feather_v1.0.ipa"
+          "appPermissions": {}
         }
-      ],
-      "size": 12375230,
-      "version": "1.0.5",
-      "versionDate": "2024-10-03T18:34:10Z",
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa",
-      "appPermissions": {}
-    }
   ],
   "news": []
 }
