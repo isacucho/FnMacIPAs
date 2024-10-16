@@ -17,42 +17,12 @@
           "date": "2024-10-11T00:00:00Z",
           "size": 293601280,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
-        },
-        {
-          "version": "31.30.1",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.30.1/Fortnite31.30.1.ipa"
-        },
-        {
-          "version": "31.30",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.30/Fortnite31.30.ipa"
-        },
-        {
-          "version": "31.20",
-          "date": "2024-09-18T18:34:10Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.20/Fortnite31.20.ipa"
-        },
-        {
-          "version": "31.10.1",
-          "date": "2024-08-30T18:34:10Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.10.1/Fortnite31.10.1.ipa"
-        },
-        {
-          "version": "31.10",
-          "date": "2024-08-24T18:34:10Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.10/Fortnite-31.10.ipa"
         }
       ],
       "size": 293601280,
-      "version": "31.00.1",
+      "version": "31.30.1",
       "versionDate": "2024-10-03T18:34:10Z",
-      "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fortnite_31.00.1_QoL.ipa",
+      "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v31.30.1/Fortnite31.30.1.ipa",
       "appPermissions": {}
     }
   ],
