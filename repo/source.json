@@ -26,5 +26,29 @@
       "appPermissions": {}
     }
   ],
+        [
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Mediatonic",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fallguys.png?raw=true",
+      "localizedDescription": "Play Fall Guys on iOS for free!",
+      "subtitle": "Official Fall Guys iOS app",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "11.3.0",
+          "date": "2024-10-16T00:00:00Z",
+          "size": 195238232,
+          "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa"
+        }
+      ],
+      "size": 195238232,
+      "version": "11.3.0",
+      "versionDate": "2024-10-16T00:00:00Z",
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa",
+      "appPermissions": {}
+    }
+  ],
   "news": []
 }
