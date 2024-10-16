@@ -1,60 +1,23 @@
 {
-  "name": "Epic Games Repo",
+  "name": "Epic Games",
   "identifier": "com.isacucho.epicgames",
   "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
   "apps": [
     {
-      "name": "Feather",
-      "bundleIdentifier": "kh.crysalis.feather",
-      "developerName": "Samara",
-      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icon.png?raw=true",
-      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-      "subtitle": "On-device signing application",
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
+      "subtitle": "Official Fortnite iOS app",
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "1.0.5",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa"
+          "version": "31.40",
+          "date": "2024-10-11T00:00:00Z",
+          "size": 293601280,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
         },
-        {
-          "version": "1.0.4",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.4/feather_v1.0.4.ipa"
-        },
-        {
-          "version": "1.0.3",
-          "date": "2024-10-03T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.3/feather_v1.0.3.ipa"
-        },
-        {
-          "version": "1.0.2",
-          "date": "2024-09-18T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.2/feather_v1.0.2.ipa"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2024-08-30T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.1/feather_v1.0.1.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2024-08-24T18:34:10Z",
-          "size": 12375230,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0/feather_v1.0.ipa"
-        }
-      ],
-      "size": 12375230,
-      "version": "1.0.5",
-      "versionDate": "2024-10-03T18:34:10Z",
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa",
-      "appPermissions": {}
-    }
   ],
   "news": []
 }
