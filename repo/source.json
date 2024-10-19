@@ -31,27 +31,6 @@
       "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa",
       "appPermissions": {}
      },
-     {
-      "name": "Fall Guys",
-      "bundleIdentifier": "co.uk.mediatonic.fallguys",
-      "developerName": "Mediatonic",
-      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fallguys.png?raw=true",
-      "localizedDescription": "Fall Guys!",
-      "Subtitle": "Fall Guys Mobile",
-      "versions": [
-        {
-          "version": "11.3.0",
-          "date": "2024-10-11T00:00:00Z",
-          "size": 293601280,
-          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
-        }
-      ],
-      "size": 293601280,
-      "version": "11.3.0",
-      "versionDate": "2024-10-11T00:00:00Z",
-      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
-      "appPermissions": {}
-     }
   ],
   "news": []
 }
