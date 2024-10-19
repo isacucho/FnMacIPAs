@@ -44,6 +44,8 @@
             ],
             "appPermissions": {
                 "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
                 ],
                 "privacy": {
                     "NSMicrophoneUsageDescription": "App uses microphone for in-game voice chat."
