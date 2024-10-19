@@ -1,24 +1,21 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
-    "tintColor": "#4185A9",
+    "name": "Epic Games Test",
+    "subtitle": "A place where you can get the newest versions of Fortnite and Fall Guys.",
+    "description": "In this source you will be able to download the newest releases of both Fortnite and Fall guys! If I miss an update, contact me on Discord: @isacucho.",
+    "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
+    "website": "https://github.com/isacucho/FnMacIPAs",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        "com.epicgames.FortniteGame",
+        "uk.co.mediatonic.fallguys"
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
+            "name": "Fortnite",
+            "bundleIdentifier": "com.epicgames.FortniteGame",
+            "developerName": "Epic Games",
+            "subtitle": "Official Fortnite iOS app",
+            "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing\n\nThanks to the guys at the celestial discord for the IPAs!",
+            "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
                 "https://example.com/myapp_portrait_screenshot2.png",
@@ -30,30 +27,26 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
+                    "version": "31.40.1",
+                    "date": "2024-10-18T00:00:00-00:00",
+                    "size": 254000000000,
+                    "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa",
+                    "localizedDescription": "Small bug fix update. It isn't necessary to open the game, but it is recommended. (might be necessary in the future)".",
                     "minOSVersion": "12.0"
                 },
                 {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
+                    "version": "31.40",
+                    "date": "2024-10-11T00:00:00-00:00",
+                    "size": 254000000000,
+                    "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa",
+                    "localizedDescription": "v31.40."
                 }
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
                 ],
                 "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                    "NSMicrophoneUsageDescription": "App uses microphone for in-game voice chat."
                 }
             }
         },
