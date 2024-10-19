@@ -4,29 +4,29 @@
   "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
   "apps": [
      {
-      "name": "Fortnite",
-      "bundleIdentifier": "com.epicgames.FortniteGame",
-      "developerName": "Epic Games",
-      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
-      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing\n\nThanks to the guys at the celestial discord for the IPAs!",
-      "subtitle": "Official Fortnite iOS app",
+      "name": "Fall Guys",
+      "bundleIdentifier": "co.uk.mediatonic.fallguys",
+      "developerName": "Mediatonic",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fallguys.png?raw=true",
+      "localizedDescription": "Fall guys",
+      "subtitle": "Fall Guys mobile",
       "versions": [
        {
-          "version": "31.40.1",
+          "version": "11.3.0",
           "date": "2024-10-18T00:00:00Z",
-         "localizedDescription": "Small bug fix update. It isn't necessary to open the game, but it is recommended",
+         "localizedDescription": "new update",
           "size": 293601280,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa"
         },
         {
-          "version": "31.40",
+          "version": "11.2.1",
           "date": "2024-10-11T00:00:00Z",
           "size": 293601280,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
         }
       ],
       "size": 293601280,
-      "version": "31.40.1",
+      "version": "11.3.0",
       "versionDate": "2024-10-18T18:34:10Z",
       "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa",
       "appPermissions": {}
