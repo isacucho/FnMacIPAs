@@ -1,11 +1,7 @@
 {
   "name": "Epic Games Test Repo",
   "identifier": "com.isacucho.epicgames",
-  "subtitle": "A place where you can get Fortnite and Fall Guys.",
-  "description": "Here you will be able to easily find and download the newest Fortnite and Fall Guys IPAs. In case an update is missing, feel free to contact me on discord: @isacucho",
-  "website": "https://github.com/isacucho/FnMacIPAs",
   "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
-  "patreonURL": "https://buymeacoffee.com/isacucho"
   "apps": [
      {
       "name": "Fall Guys",
