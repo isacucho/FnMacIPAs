@@ -1,5 +1,5 @@
 {
-  "name": "Isacucho Test Repo",
+  "name": "Epic Games Test Repo",
   "identifier": "com.isacucho.epicgames",
   "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
   "apps": [
@@ -53,27 +53,6 @@
       "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa",
       "appPermissions": {}
     },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
-      "developerName": "Mediatonic",
-      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fallguys.png?raw=true",
-      "localizedDescription": "Play Fall Guys on iOS for free!",
-      "subtitle": "Official Fall Guys iOS app",
-      "versions": [
-        {
-          "version": "11.3.0",
-          "date": "2024-10-16T00:00:00Z",
-          "size": 2200000000,
-          "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa"
-        }
-      ],
-      "size": 2200000000,
-      "version": "11.3.0",
-      "versionDate": "2024-10-16T00:00:00Z",
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa",
-      "appPermissions": {}
-    }
   ],
   "news": []
 }
