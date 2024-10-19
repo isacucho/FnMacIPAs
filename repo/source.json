@@ -32,6 +32,28 @@
       "appPermissions": {}
     },
     {
+      "name": "Fortnite NW",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
+      "localizedDescription": "I was annoyed with Fortnite having an annoying watermark on every launch, so I decided to remove it myself! Credit for the IPAs still goes to the guys at the Celestial discord, and if they ask me to take down this version I'll gladly do it.",
+      "subtitle": "Fortnite, without watermark",
+      "versions": [
+       {
+          "version": "31.40.1",
+          "date": "2024-10-18T00:00:00Z",
+         "localizedDescription": "Small bug fix update. It isn't necessary to open the game, but it is recommended",
+          "size": 293601280,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite-31.40.1_nw.ipa"
+        },
+      ],
+      "size": 293601280,
+      "version": "31.40.1",
+      "versionDate": "2024-10-18T00:00:00Z",
+      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite_31.40.1.ipa",
+      "appPermissions": {}
+    },
+    {
       "name": "Fall Guys",
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "developerName": "Mediatonic",
