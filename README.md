@@ -5,7 +5,7 @@
   https://bit.ly/EpicGamesRepo <br>
 Or click the button for your app of choice below.</h2>
 
-BUTTONS BROKE, WILL BE BACK UP SOON.
+<a href="https://tinyurl.com/2p8522v3"><img src="https://i.imgur.com/46qhEAv.png" width="200"></a>
 
 <h3>Credit for the Fortnite IPAs go to the guys at the celestial discord, and the Fall Guys IPA was provided by Ichitaso.</h3>
 
