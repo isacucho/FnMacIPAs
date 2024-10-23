@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Fortnite",
-      "bundleIdentifier": "com.epicgames.FortniteGame.ww",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
       "developerName": "Epic Games",
       "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
       "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
