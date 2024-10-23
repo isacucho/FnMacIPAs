@@ -8,13 +8,13 @@
       "bundleIdentifier": "com.epicgames.FortniteGame.ww",
       "developerName": "Epic Games",
       "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
-      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing\n\nThanks to the guys at the celestial discord for the IPAs!",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
       "subtitle": "Official Fortnite iOS app",
       "versions": [
        {
           "version": "31.40.1",
           "date": "2024-10-18T00:00:00Z",
-         "localizedDescription": "Minor update. Now necessary to play.",
+         "localizedDescription": "Minor update, provided by the guys at the Celestial Discord.",
           "size": 501900000,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite-31.40.1_nw.ipa"
         },
@@ -42,6 +42,7 @@
         {
           "version": "11.3.0",
           "date": "2024-10-16T00:00:00Z",
+          "localizedDescription": "IPA provided by Ichitaso.",
           "size": 2130000000,
           "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa"
         }
