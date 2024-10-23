@@ -5,10 +5,7 @@
   https://bit.ly/EpicGamesRepo <br>
 Or click the button for your app of choice below.</h2>
 
-BUTTONS DON'T WORK, CLICK THE LINK TO ADD:
-
-[AltStore](altstore://source?URL=https://bit.ly/EpicGamesRepo) <br>
-<a href="altstore://source?URL=https://bit.ly/EpicGamesRepo"><img src="https://i.imgur.com/46qhEAv.png" width="200"></a>
+BUTTONS BROKE, WILL BE BACK UP SOON.
 
 <h3>Credit for the Fortnite IPAs go to the guys at the celestial discord, and the Fall Guys IPA was provided by Ichitaso.</h3>
 
