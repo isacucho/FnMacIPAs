@@ -8,13 +8,20 @@
       "bundleIdentifier": "com.epicgames.FortniteGame",
       "developerName": "Epic Games",
       "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
-      "localizedDescription": "AWAITING UPDATE\n\nPlay Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
-      "subtitle": "AWAITING UPDATE",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
+      "subtitle": "Updated to newest version",
       "versions": [
+        {
+          "version": "31.41",
+          "date": "2024-10-25T00:00:00Z",
+          "localizedDescription": "This major update is the last update for Chapter 5 season 4, and it contains the files for the upcoming live event.\n\nIPA provided by the guys at the Celestial Discord.",
+          "size": 501900000,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.41/Fortnite_31.41.ipa"
+       },
        {
           "version": "31.40.1",
           "date": "2024-10-18T00:00:00Z",
-         "localizedDescription": "Minor update, provided by the guys at the Celestial Discord.",
+          "localizedDescription": "Minor update, provided by the guys at the Celestial Discord.",
           "size": 501900000,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite-31.40.1_nw.ipa"
         },
@@ -26,9 +33,9 @@
         }
       ],
       "size": 501900000,
-      "version": "31.40.1",
-      "versionDate": "2024-10-18T18:34:10Z",
-      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite-31.40.1_nw.ipa",
+      "version": "31.41",
+      "versionDate": "2024-10-25T00:00:00Z",
+      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.41/Fortnite_31.41.ipa",
       "appPermissions": {}
     },
     {
