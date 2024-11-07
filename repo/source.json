@@ -61,14 +61,14 @@
       "subtitle": "Official Fall Guys iOS app",
       "versions": [
         {
-          "version": "11.40.0",
+          "version": "11.4.0",
           "date": "2024-11-07T00:00:00Z",
           "localizedDescription": "IPA provided by Vedma1337/AlphaIPAs.",
           "size": 2130000000,
           "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.0/FallGuys-11.3.0.ipa"
         },
         {
-          "version": "11.4.0",
+          "version": "11.3.0",
           "date": "2024-10-16T00:00:00Z",
           "localizedDescription": "IPA provided by Ichitaso.",
           "size": 2130000000,
@@ -76,9 +76,9 @@
         }
       ],
       "size": 2130000000,
-      "version": "11.3.0",
-      "versionDate": "2024-10-16T00:00:00Z",
-      "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.0/FallGuys-11.3.0.ipa",
+      "version": "11.4.0",
+      "versionDate": "2024-11-07T00:00:00Z",
+      "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa",
       "appPermissions": {}
     }
   ],
