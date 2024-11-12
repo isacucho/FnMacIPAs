@@ -3,6 +3,7 @@ name: Update Fortnite Version in AltStore Source
 on:
   schedule:
     - cron: '*/1 * * * *'  # Run every 15 minutes if using GitHub Enterprise, or adjust as needed
+  workflow_dispatch:
 
 jobs:
   update-source:
