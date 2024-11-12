@@ -12,20 +12,27 @@
       "subtitle": "Updated to the latest version",
       "versions": [
         {
+          "version": "32.00.2.ipa",
+          "date": "2024-11-08T16:43:06Z",
+          "localizedDescription": "Auto-updated with the latest version",
+          "size": 251135109,
+          "downloadURL": "https://github.com/relocating/EpicGamesStoreIPA/releases/download/32.00.2.ipa/Fortnite.V32.00.2.ipa"
+        },
+        {
           "version": "32.00",
           "date": "2024-11-02T00:00:00Z",
           "localizedDescription": "This update is the first update of the Fortnite Remix season.",
           "size": 501900000,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v32.00/Fortnite_32.00.ipa"
-       },
+        },
         {
           "version": "31.41",
           "date": "2024-10-25T00:00:00Z",
           "localizedDescription": "This major update is the last update for Chapter 5 season 4, and it contains the files for the upcoming live event.\n\nIPA provided by the guys at the Celestial Discord.",
           "size": 501900000,
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.41/Fortnite_31.41.ipa"
-       },
-       {
+        },
+        {
           "version": "31.40.1",
           "date": "2024-10-18T00:00:00Z",
           "localizedDescription": "Minor update, provided by the guys at the Celestial Discord.",
@@ -39,10 +46,10 @@
           "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
         }
       ],
-      "size": 501900000,
-      "version": "32.00.2",
-      "versionDate": "2024-11-06T00:00:00Z",
-      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v32.00.2/Fortnite_32.00.2.ipa",
+      "size": 251135109,
+      "version": "32.00.2.ipa",
+      "versionDate": "2024-11-08T16:43:06Z",
+      "downloadURL": "https://github.com/relocating/EpicGamesStoreIPA/releases/download/32.00.2.ipa/Fortnite.V32.00.2.ipa",
       "appPermissions": {}
     },
     {
