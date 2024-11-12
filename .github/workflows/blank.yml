@@ -34,7 +34,7 @@ jobs:
     - name: Update source.json with new Fortnite version
       run: |
         # Read the current version in source.json
-        current_version=$(jq -r '.apps[] | select(.name == "Fortnite") | .version' repo/source2.json)
+        current_version=$(jq -r '.apps[] | select(.name == "Fortnite") | .version' repo/source.json)
 
         if [ "$current_version" != "${{ steps.get_latest_release.outputs.latest_version }}" ]; then
           # Add new version to the versions array
@@ -44,7 +44,7 @@ jobs:
              --argjson size ${{ steps.get_latest_release.outputs.size }} \
              --arg download_url "${{ steps.get_latest_release.outputs.download_url }}" \
              '(.apps[] | select(.name == "Fortnite") | .versions) |= [{"version": $version, "date": $date, "localizedDescription": $desc, "size": $size, "downloadURL": $download_url}] + .' \
-             repo/source2.json > tmp.json && mv tmp.json repo/source2.json
+             repo/source.json > tmp.json && mv tmp.json repo/source.json
 
           # Update root-level fields for the Fortnite app
           jq --arg version "${{ steps.get_latest_release.outputs.latest_version }}" \
@@ -52,10 +52,10 @@ jobs:
              --arg download_url "${{ steps.get_latest_release.outputs.download_url }}" \
              --argjson size ${{ steps.get_latest_release.outputs.size }} \
              '(.apps[] | select(.name == "Fortnite")) |= (. + {version: $version, versionDate: $date, downloadURL: $download_url, size: $size})' \
-             repo/source2.json > tmp.json && mv tmp.json repo/source2.json
+             repo/source.json > tmp.json && mv tmp.json repo/source.json
 
           # Print the updated source.json for debugging
-          cat repo/source2.json
+          cat repo/source.json
         else
           echo "No update needed; Fortnite is already at the latest version."
         fi
@@ -65,6 +65,6 @@ jobs:
       run: |
         git config --local user.name "GitHub Action"
         git config --local user.email "action@github.com"
-        git add repo/source2.json
+        git add repo/source.json
         git commit -m "Update Fortnite in AltStore source to version ${{ steps.get_latest_release.outputs.latest_version }}"
         git push
