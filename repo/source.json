@@ -12,7 +12,7 @@
       "subtitle": "Updated to the latest version",
       "versions": [
          {
-          "version": "32.00.2",
+          "version": "32.00.2.ipa",
           "date": "2024-11-06T00:00:00Z",
           "localizedDescription": "This is a minor update with some bugfixes. Might become necessary to play in the future.",
           "size": 501900000,
@@ -47,7 +47,7 @@
         }
       ],
       "size": 501900000,
-      "version": "32.00.2",
+      "version": "32.00.2.ipa",
       "versionDate": "2024-11-06T00:00:00Z",
       "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v32.00.2/Fortnite_32.00.2.ipa",
       "appPermissions": {}
