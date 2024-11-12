@@ -1,0 +1,79 @@
+{
+  "name": "Epic Games",
+  "identifier": "com.isacucho.epicgames",
+  "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
+  "apps": [
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fortnite.png?raw=true",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing",
+      "subtitle": "Updated to the latest version",
+      "versions": [
+        {
+          "version": "32.00",
+          "date": "2024-11-02T00:00:00Z",
+          "localizedDescription": "This update is the first update of the Fortnite Remix season.",
+          "size": 501900000,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v32.00/Fortnite_32.00.ipa"
+       },
+        {
+          "version": "31.41",
+          "date": "2024-10-25T00:00:00Z",
+          "localizedDescription": "This major update is the last update for Chapter 5 season 4, and it contains the files for the upcoming live event.\n\nIPA provided by the guys at the Celestial Discord.",
+          "size": 501900000,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.41/Fortnite_31.41.ipa"
+       },
+       {
+          "version": "31.40.1",
+          "date": "2024-10-18T00:00:00Z",
+          "localizedDescription": "Minor update, provided by the guys at the Celestial Discord.",
+          "size": 501900000,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40.1/Fortnite-31.40.1_nw.ipa"
+        },
+        {
+          "version": "31.40",
+          "date": "2024-10-11T00:00:00Z",
+          "size": 501900000,
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v31.40/Fortnite_31.40.ipa"
+        }
+      ],
+      "size": 501900000,
+      "version": "32.00.2",
+      "versionDate": "2024-11-06T00:00:00Z",
+      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v32.00.2/Fortnite_32.00.2.ipa",
+      "appPermissions": {}
+    },
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Mediatonic",
+      "iconURL": "https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/fallguys.png?raw=true",
+      "localizedDescription": "Fall Guys is a free, cross-platform multiplayer battle royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
+      "subtitle": "Official Fall Guys iOS app",
+      "versions": [
+        {
+          "version": "11.4.0",
+          "date": "2024-11-07T00:00:00Z",
+          "localizedDescription": "IPA provided by Vedma1337/AlphaIPAs.",
+          "size": 2130000000,
+          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa"
+        },
+        {
+          "version": "11.3.0",
+          "date": "2024-10-16T00:00:00Z",
+          "localizedDescription": "IPA provided by Ichitaso.",
+          "size": 2130000000,
+          "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.0/FallGuys-11.3.0.ipa"
+        }
+      ],
+      "size": 2130000000,
+      "version": "11.4.0",
+      "versionDate": "2024-11-07T00:00:00Z",
+      "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
