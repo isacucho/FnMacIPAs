@@ -12,6 +12,13 @@
          "subtitle":"Ideal for Mac",
          "versions":[
             {
+               "version":"33.10",
+               "date":"2024-12-10T12:00:00Z",
+               "localizedDescription":"Major update",
+               "size":501900000,
+               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.10/Fortnite-33.10_Fullscreen.ipa"
+            },
+            {
                "version":"33.00.1",
                "date":"2024-12-04T12:00:00Z",
                "localizedDescription":"Minor update",
@@ -34,9 +41,9 @@
             }
          ],
          "size":251135109,
-         "version":"33.00.1",
-         "versionDate":"2024-12-04T12:00:00Z",
-         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.00.1/Fortnite-33.00.1_Fullscreen.ipa",
+         "version":"33.10",
+         "versionDate":"2024-12-10T12:00:00Z",
+         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.10/Fortnite-33.10_Fullscreen.ipa",
          "appPermissions":{
             
          }
@@ -49,6 +56,13 @@
          "localizedDescription":"Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing\n\nAuto-Updated: This IPA was automatically pulled from Celestial, and it may contain watermarks. Once I wake up, it will be swapped with a clean IPA.\n\nUpdated to the latest version: This is a clean IPA with no watermarks. Only tweaks applied here are: Removed device restriction; Supports document browser.",
          "subtitle":"Without watermark",
          "versions":[
+            {
+               "version":"33.10",
+               "date":"2024-12-10T12:00:00Z",
+               "localizedDescription":"Major update",
+               "size":501900000,
+               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.10/Fortnite_33.10.ipa"
+            },
             {
                "version":"33.00.1",
                "date":"2024-12-04T12:00:00Z",
@@ -113,9 +127,9 @@
             }
          ],
          "size":251135109,
-         "version":"33.00.1",
-         "versionDate":"2024-12-04T12:00:00Z",
-         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.00.1/Fortnite_33.00.1.ipa",
+         "version":"33.10",
+         "versionDate":"2024-12-10T12:00:00Z",
+         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.10/Fortnite_33.10.ipa",
          "appPermissions":{
             
          }
