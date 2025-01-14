@@ -12,17 +12,17 @@
          "subtitle":"For iPhone, iPad, and Mac",
          "versions":[
             {
-               "version":"33.11",
-               "date":"2024-12-18T12:00:00Z",
-               "localizedDescription":"Major update, contains winterfest files",
+               "version":"33.20",
+               "date":"2025-01-14T12:00:00Z",
+               "localizedDescription":"Major update",
                "size":501900000,
-               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.11/Fortnite-33.11_Fullscreen.ipa"
+               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20/Fortnite-33.20.ipa"
             }
          ],
          "size":501900000,
-         "version":"33.11",
-         "versionDate":"2024-12-18T12:00:00Z",
-         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.11/Fortnite-33.11_Fullscreen.ipa",
+         "version":"33.20",
+         "versionDate":"2025-01-14T12:00:00Z",
+         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20/Fortnite-33.20.ipa",
          "appPermissions":{
             
          }
