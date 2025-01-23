@@ -12,17 +12,17 @@
          "subtitle": "For iPhone, iPad, and Mac",
          "versions":[
             {
-               "version":"33.20",
-               "date":"2025-01-14T12:00:00Z",
-               "localizedDescription":"Major update",
+               "version":"33.20.1",
+               "date":"2025-01-22T12:00:00Z",
+               "localizedDescription":"Minor update",
                "size":501900000,
-               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20/Fortnite-33.20.ipa"
+               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.1/Fortnite-33.20.1.ipa"
             }
          ],
          "size":501900000,
-         "version":"33.20",
-         "versionDate":"2025-01-14T12:00:00Z",
-         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20/Fortnite-33.20.ipa",
+         "version":"33.20.1",
+         "versionDate":"2025-01-22T12:00:00Z",
+         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.2/Fortnite-33.20.1.ipa",
          "appPermissions":{
             
          }
@@ -38,29 +38,15 @@
             {
                "version":"11.5.0",
                "date":"2024-12-107T00:00:00Z",
-               "localizedDescription":"IPA provided by Vedma1337/AlphaIPAs.",
+               "localizedDescription":"Updated to the latest version.",
                "size":2130000000,
-               "downloadURL":"https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa"
-            },
-            {
-               "version":"11.4.0",
-               "date":"2024-11-07T00:00:00Z",
-               "localizedDescription":"IPA provided by Vedma1337/AlphaIPAs.",
-               "size":2130000000,
-               "downloadURL":"https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa"
-            },
-            {
-               "version":"11.3.0",
-               "date":"2024-10-16T00:00:00Z",
-               "localizedDescription":"IPA provided by Ichitaso.",
-               "size":2130000000,
-               "downloadURL":"https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.0/FallGuys-11.3.0.ipa"
+               "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.1/Fall_Guys-11.5.0.ipa"
             }
          ],
          "size":2130000000,
          "version":"11.5.0",
          "versionDate":"2024-12-10T00:00:00Z",
-         "downloadURL":"https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa",
+         "downloadURL":"https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.1/Fall_Guys-11.5.0.ipa",
          "appPermissions":{
             
          }
