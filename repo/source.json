@@ -12,17 +12,17 @@
       "subtitle": "Updated to the latest version",
       "versions": [
         {
-          "version": "33.30.2",
-          "date": "2025-02-12T12:00:00Z",
-          "localizedDescription": "Minor game update",
+          "version": "34.00",
+          "date": "2025-02-21T12:00:00Z",
+          "localizedDescription": "Welcome to chapter 6 season 2!",
           "size": 501900000,
-          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.30.2/Fortnite-33.30.2.ipa"
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v34.00/Fortnite-34.00.ipa"
         }
       ],
       "size": 501900000,
-      "version": "33.30.2",
-      "versionDate": "2025-02-12T12:00:00Z",
-      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.30.2/Fortnite-33.30.2.ipa",
+      "version": "34.00",
+      "versionDate": "2025-02-21T12:00:00Z",
+      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v34.00/Fortnite-34.00.ipa",
       "appPermissions": {}
     },
     {
@@ -34,17 +34,17 @@
       "subtitle": "Official Fall Guys iOS app",
       "versions": [
         {
-          "version": "11.5.0",
-          "date": "2024-12-10T12:00:00Z",
+          "version": "11.6.0",
+          "date": "2025-02-10T12:00:00Z",
           "localizedDescription": "Updated to the latest version.",
           "size": 2130000000,
-          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.1/mt.Fall_Guys-11.5.0.ipa"
+          "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.30.2/mt.Fall_Guys-11.6.0.ipa"
         }
       ],
       "size": 2130000000,
-      "version": "11.5.0",
-      "versionDate": "2024-12-10T12:00:00Z",
-      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.20.0/Fall_Guys-11.5.0.ipa",
+      "version": "11.6.0",
+      "versionDate": "2025-02-10T12:00:00Z",
+      "downloadURL": "https://github.com/isacucho/FnMacIPAs/releases/download/v33.30.2/mt.Fall_Guys-11.6.0.ipa",
       "appPermissions": {}
     }
   ],
